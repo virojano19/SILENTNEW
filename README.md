@@ -14,7 +14,9 @@ import time, random, sys, json, codecs, threading, glob, re, string, os, request
 from gtts import gTTS
 from googletrans import Translator
 
-```
+git clone https://github.com/virojano19/SILENTNEWT
+
+
 
 - LINE UPDATE
 juni 2018
